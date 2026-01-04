@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bàn phím Aula S100 Pro 3.md",
+                "file": "Trông con ốm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bàn phím Aula S100 Pro 3"
+              "title": "Trông con ốm"
+            }
+          },
+          {
+            "id": "1b9ca76344bdab65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quit game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quit game"
+            }
+          },
+          {
+            "id": "78cd3a3f8a0fcdab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quit game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quit game"
+            }
+          },
+          {
+            "id": "d56e6d6d21f2ac16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quit game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quit game"
+            }
+          },
+          {
+            "id": "c1bb48bf9c1c1c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trông con ốm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trông con ốm"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bàn phím Aula S100 Pro 3.md",
+            "file": "Quit game.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,8 +211,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "476d100c12fb7418",
+  "active": "d56e6d6d21f2ac16",
   "lastOpenFiles": [
-    "Bàn phím Aula S100 Pro 3.md"
+    "Untitled.md",
+    "Quit game.md",
+    "Bàn phím Aula S100 Pro 3.md",
+    "Làm web.md",
+    "Trông con ốm.md"
   ]
 }
